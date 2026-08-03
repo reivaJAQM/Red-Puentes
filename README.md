@@ -1,4 +1,4 @@
-# Tailscale Bridge Network Kit (Universal & Portátil)
+# Tailscale Bridge Network Kit 
 
 Sistema autónomo, portátil y universal para crear y administrar tu propia **Red de Puentes (Exit Nodes) con Tailscale** con conmutación por error (failover) en tiempo real, autodetección de nodos y portabilidad total.
 
@@ -95,7 +95,7 @@ Puedes editar manualmente `network-config.json` o utilizar el asistente `configu
 
 ## Verificación de Conexión
 
-Desde cualquier cliente conectado, puedes verificar tu IP pública navegando a [https://ipinfo.io](https://ipinfo.io) o [https://ifconfig.me](https://ifconfig.me) — debe mostrar la ubicación e IP pública del nodo puente activo.
+Desde cualquier cliente conectado, puedes verificar tu IP pública navegando a https://www.ippublica.net - debe mostrar la IP pública del nodo puente activo.
 
 ---
 
