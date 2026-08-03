@@ -1,0 +1,3 @@
+# Pega aquí tu Auth Key de Tailscale (obtenida desde https://login.tailscale.com/admin/settings/keys)
+# Ejemplo: tskey-auth-k8nyFoYuF311CNTRL-xxxxxxxxxxxxxxxxx
+# Deja este archivo guardado para que los instaladores se conecten automáticamente a tu Tailnet.

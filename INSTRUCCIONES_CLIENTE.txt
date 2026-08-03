@@ -1,0 +1,54 @@
+==============================================================================
+  GUÍA FÁCIL: CÓMO CONECTARSE A LA RED DE PUENTES (CLIENTE)
+==============================================================================
+
+¡Hola! Este programa te permite conectarte a Internet de forma segura a través 
+de la red de puentes de tu organización.
+
+No necesitas instalar nada previamente ni configurar nada difícil. Todo el 
+proceso es automático.
+
+------------------------------------------------------------------------------
+PASOS PARA USAR EL PROGRAMA (WINDOWS)
+------------------------------------------------------------------------------
+
+1. BUSCA EL ARCHIVO:
+   En tu computadora, ubica el archivo llamado "setup-client.bat".
+
+2. DALE DOBLE CLIC:
+   Haz doble clic sobre el archivo "setup-client.bat".
+
+3. PERMISOS DE ADMINISTRADOR:
+   Si Windows te muestra un mensaje preguntando "¿Quieres permitir que esta 
+   aplicación haga cambios en el dispositivo?", haz clic en "SÍ".
+
+4. ESPERA UNOS SEGUNDOS:
+   Se abrirá una pantalla. El programa trabajará solo durante unos 
+   segundos conectándote a la red.
+
+5. ¡LISTO! YA ESTÁS CONECTADO:
+   Cuando veas un recuadro VERDE en la pantalla que dice:
+   "✔ CONECTADO EXITOSAMENTE AL PUENTE"
+   significa que ya estás conectado y tu tráfico está navegando a través 
+   del puente activo.
+
+------------------------------------------------------------------------------
+¿CÓMO DESCONECTARSE CUANDO TERMINES?
+------------------------------------------------------------------------------
+
+Mientras necesites la conexión, DEJA LA VENTANA ABIERTA.
+
+Cuando quieras desconectarte y volver a tu Internet normal de siempre, tienes 
+dos opciones muy fáciles:
+
+• OPCIÓN A: Presiona la tecla "Q" en tu teclado dentro de la ventana.
+• OPCIÓN B: Simplemente cierra la ventana haciendo clic en la "X" arriba a la derecha.
+
+Al cerrar la ventana, el programa te desconectará automáticamente y tu computadora 
+volverá a su Internet habitual.
+
+==============================================================================
+Nota para usuarios de Mac:
+Si estás usando una computadora Apple (Mac), el procedimiento es idéntico pero 
+usando el archivo llamado "setup-client.command".
+==============================================================================

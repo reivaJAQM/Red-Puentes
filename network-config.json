@@ -1,0 +1,7 @@
+{
+  "network_name": "Red de Puentes Tailscale",
+  "organization": "Mi Organización",
+  "check_interval_seconds": 30,
+  "portal_url": "",
+  "custom_banner": true
+}
